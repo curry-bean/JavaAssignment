@@ -2,7 +2,8 @@ package com.maxwel.bookjavabean;
 
 /**
  *
- * @author aloha-tech
+ * @author maxwel
+ * 
  */
 
 import java.io.Serializable;
